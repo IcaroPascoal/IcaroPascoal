@@ -18,3 +18,4 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello&logoColor=0052CC)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=C)

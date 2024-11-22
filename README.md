@@ -1,6 +1,6 @@
 ## Greetings!!! I'm Icaro Pascoal 🇧🇷
 
-- 👨🏾‍🏫 Physics Student
+- 👨🏾‍🏫 Chemistry Student
 - 🤖 Maker of robots and gadgets
 - 📚 Self-taught
 - 📫 You can contact me at::

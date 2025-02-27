@@ -1,7 +1,7 @@
 ## Greetings!!! I'm Icaro Pascoal 🇧🇷
 
 - 👨🏾‍🏫 Chemistry Student
-- 🤖 Maker of robots and gadgets
+- 🤖 Mechatronics Enthusiast
 - 📚 Self-taught
 - 📫 You can contact me at::
 <div>
@@ -19,3 +19,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
 ![Trello](https://img.shields.io/badge/-Trello-000?&logo=Trello&logoColor=0052CC)
 ![C](https://img.shields.io/badge/C-000000?style=flat&logo=C)
+![Obsidian](https://img.shields.io/badge/Obsidian-black?logo=obsidian
+)
+![Overleaf](https://img.shields.io/badge/Overleaf-black?logo=overleaf)
+

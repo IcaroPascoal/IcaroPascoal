@@ -1,7 +1,7 @@
 ## Greetings!!! I'm Icaro Pascoal 🇧🇷
-
-- 👨🏽‍🔧 Mechatronics Student
-- 📚 Self-taught
+- ⚗️ Chemistry Student;
+- 👨🏽‍🔧 Mechatronics Student;
+- 📚 Self-taught;
 - 📫 You can contact me at::
 <div>
   <a href="https://www.linkedin.com/in/%C3%ADcaro-pascoal-de-oliveira-53a219199"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
